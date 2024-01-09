@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/apiFirmas">
+  <!--
+ <Resource name="jdbc/AxisConexionPro"
+           auth="Container"
+           type="javax.sql.DataSource"
+           maxTotal="100"
+           maxIdle="30"
+           maxWaitMillis="10000"
+           password="GHjyotWkFlrpt"
+           username="axispool"
+           driverClassName="oracle.jdbc.OracleDriver"
+           url="jdbc:oracle:thin:@(DESCRIPTION =(LOAD_BALANCE=on)
+        (ADDRESS=(PROTOCOL=TCP)(HOST=192.168.5.100)(PORT=1521))(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.5.101)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=axisdb5)))"/>  
+  -->
+</Context>
